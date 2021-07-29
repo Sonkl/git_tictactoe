@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #defining board
 
 board = []
@@ -186,7 +186,7 @@ def game():
 
 game()
 print(winner(input_one, input_two))
-=======
+
 #defining board
 
 board = []
@@ -299,8 +299,6 @@ def winner(player1, player2):
 
 
 
-#für später
-#if winner() != None:
 	
 input_one = input("Enter name: ")
 input_two = input("Enter name: ")
@@ -374,4 +372,4 @@ def game():
 
 game()
 print(winner(input_one, input_two))
->>>>>>> 99644d01cd84a1e03879c4112668a8e9b2127900
+
